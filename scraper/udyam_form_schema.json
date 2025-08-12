@@ -1,0 +1,72 @@
+[
+  {
+    "tag": "input",
+    "type": "hidden",
+    "name": "__EVENTTARGET",
+    "label": "",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "name": "__EVENTARGUMENT",
+    "label": "",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "name": "__VIEWSTATE",
+    "label": "",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "name": "__VIEWSTATEGENERATOR",
+    "label": "",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "name": "__VIEWSTATEENCRYPTED",
+    "label": "",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "hidden",
+    "name": "__EVENTVALIDATION",
+    "label": "",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "text",
+    "name": "ctl00$ContentPlaceHolder1$txtadharno",
+    "label": "Your Aadhaar No",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "text",
+    "name": "ctl00$ContentPlaceHolder1$txtownername",
+    "label": "Name as per Aadhaar",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "checkbox",
+    "name": "ctl00$ContentPlaceHolder1$chkDecarationA",
+    "label": "",
+    "required": false
+  },
+  {
+    "tag": "input",
+    "type": "submit",
+    "name": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+    "label": "",
+    "required": false
+  }
+]

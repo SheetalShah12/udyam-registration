@@ -1,0 +1,23 @@
+[
+  {
+    "aadhaar": "123456786545",
+    "otp": "234543",
+    "pan": "TFGPS4401P",
+    "pin": "263136",
+    "city": "Nainital",
+    "state": "Uttarakhand"
+  },
+  {
+    "aadhaar": "235645678765",
+    "otp": "345645",
+    "pan": "TFGSR4401E"
+  },
+  {
+    "aadhaar": "145634675745",
+    "otp": "345654",
+    "pan": "TFGDS4401E",
+    "pin": "263139",
+    "city": "Nainital",
+    "state": "Uttarakhand"
+  }
+]
