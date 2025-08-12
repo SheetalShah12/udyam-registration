@@ -19,5 +19,19 @@
     "pin": "263139",
     "city": "Nainital",
     "state": "Uttarakhand"
+  },
+  {
+    "pan": "TFGHE4401E",
+    "pin": "263139",
+    "city": "Nainital",
+    "state": "Uttarakhand"
+  },
+  {
+    "aadhaar": "234567654345",
+    "otp": "345676",
+    "pan": "TFGHE4401E",
+    "pin": "263139",
+    "city": "Nainital",
+    "state": "Uttarakhand"
   }
 ]
